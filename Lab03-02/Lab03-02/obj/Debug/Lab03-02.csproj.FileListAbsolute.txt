@@ -1,0 +1,10 @@
+D:\c#\Lab03-02\Lab03-02\bin\Debug\Lab03-02.exe.config
+D:\c#\Lab03-02\Lab03-02\bin\Debug\Lab03-02.exe
+D:\c#\Lab03-02\Lab03-02\bin\Debug\Lab03-02.pdb
+D:\c#\Lab03-02\Lab03-02\obj\Debug\Lab03-02.csproj.AssemblyReference.cache
+D:\c#\Lab03-02\Lab03-02\obj\Debug\Lab03_02.Form1.resources
+D:\c#\Lab03-02\Lab03-02\obj\Debug\Lab03_02.Properties.Resources.resources
+D:\c#\Lab03-02\Lab03-02\obj\Debug\Lab03-02.csproj.GenerateResource.cache
+D:\c#\Lab03-02\Lab03-02\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
+D:\c#\Lab03-02\Lab03-02\obj\Debug\Lab03-02.exe
+D:\c#\Lab03-02\Lab03-02\obj\Debug\Lab03-02.pdb
